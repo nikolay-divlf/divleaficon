@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?cyc22');
-  src:  url('fonts/divleaficon.eot?cyc22#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?cyc22') format('truetype'),
-    url('fonts/divleaficon.woff?cyc22') format('woff'),
-    url('fonts/divleaficon.svg?cyc22#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?kyha1m');
+  src:  url('fonts/divleaficon.eot?kyha1m#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?kyha1m') format('truetype'),
+    url('fonts/divleaficon.woff?kyha1m') format('woff'),
+    url('fonts/divleaficon.svg?kyha1m#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -586,6 +586,10 @@
 }
 .icon-user-02-converted:before {
   content: "\e9b9";
+  color: #000;
+}
+.icon-solar_user-bold:before {
+  content: "\e9bd";
   color: #000;
 }
 .icon-user-3-1:before {
