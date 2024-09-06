@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?kyha1m');
-  src:  url('fonts/divleaficon.eot?kyha1m#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?kyha1m') format('truetype'),
-    url('fonts/divleaficon.woff?kyha1m') format('woff'),
-    url('fonts/divleaficon.svg?kyha1m#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?p736yo');
+  src:  url('fonts/divleaficon.eot?p736yo#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?p736yo') format('truetype'),
+    url('fonts/divleaficon.woff?p736yo') format('woff'),
+    url('fonts/divleaficon.svg?p736yo#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -99,6 +99,10 @@
 }
 .icon-shopping-cart:before {
   content: "\e904";
+  color: #000;
+}
+.icon-icon2:before {
+  content: "\e9be";
   color: #000;
 }
 .icon-mingcute_basket-line-converted:before {
@@ -584,6 +588,10 @@
   color: rgb(0, 0, 0);
   opacity: 0.955;
 }
+.icon-icon1:before {
+  content: "\e9bf";
+  color: #000;
+}
 .icon-user-02-converted:before {
   content: "\e9b9";
   color: #000;
@@ -606,6 +614,10 @@
 }
 .icon-search-interface-symbol:before {
   content: "\e95f";
+  color: #000;
+}
+.icon-icon:before {
+  content: "\e9c0";
   color: #000;
 }
 .icon-Property-1tabler_search-1-converted:before {
