@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?r591no');
-  src:  url('fonts/divleaficon.eot?r591no#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?r591no') format('truetype'),
-    url('fonts/divleaficon.woff?r591no') format('woff'),
-    url('fonts/divleaficon.svg?r591no#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?lq4sud');
+  src:  url('fonts/divleaficon.eot?lq4sud#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?lq4sud') format('truetype'),
+    url('fonts/divleaficon.woff?lq4sud') format('woff'),
+    url('fonts/divleaficon.svg?lq4sud#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon_home:before {
+  content: "\e9ce";
+  color: #000;
+}
 .icon-free-icon-technics-535624:before {
   content: "\e9bb";
   color: #000;
@@ -261,12 +265,20 @@
   content: "\e921";
   color: #000;
 }
-.icon-filter:before {
+.icon-filter1:before {
   content: "\e922";
   color: #000;
 }
 .icon-filter_1:before {
   content: "\e923";
+  color: #000;
+}
+.icon-filter:before {
+  content: "\e9c9";
+  color: #000;
+}
+.icon-adjust:before {
+  content: "\e9ca";
   color: #000;
 }
 .icon-Outline-1:before {
@@ -400,6 +412,10 @@
   content: "\e93c";
   color: #000;
 }
+.icon-checkbox-_2:before {
+  content: "\e9cb";
+  color: #000;
+}
 .icon-top-right:before {
   content: "\e93d";
   color: #000;
@@ -474,6 +490,14 @@
 }
 .icon-next:before {
   content: "\e945";
+  color: #000;
+}
+.icon-back:before {
+  content: "\e9cc";
+  color: #000;
+}
+.icon-next1:before {
+  content: "\e9cd";
   color: #000;
 }
 .icon-left-arrow1:before {
