@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?lq4sud');
-  src:  url('fonts/divleaficon.eot?lq4sud#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?lq4sud') format('truetype'),
-    url('fonts/divleaficon.woff?lq4sud') format('woff'),
-    url('fonts/divleaficon.svg?lq4sud#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?4rjb8s');
+  src:  url('fonts/divleaficon.eot?4rjb8s#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?4rjb8s') format('truetype'),
+    url('fonts/divleaficon.woff?4rjb8s') format('woff'),
+    url('fonts/divleaficon.svg?4rjb8s#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon-park-solid_good-two:before {
+  content: "\e9d2";
+  color: #000;
+}
+.icon-fluent-emoji-flat_top-arrow:before {
+  content: "\e9d1";
+  color: #000;
+}
 .icon-icon_home:before {
   content: "\e9ce";
   color: #000;
@@ -668,6 +676,10 @@
   content: "\e95e";
   color: #000;
 }
+.icon-iconamoon_profile-fill:before {
+  content: "\e9d0";
+  color: #000;
+}
 .icon-search-interface-symbol:before {
   content: "\e95f";
   color: #000;
@@ -756,6 +768,10 @@
 }
 .icon-star:before {
   content: "\e962";
+  color: #000;
+}
+.icon-ph_star-fill:before {
+  content: "\e9cf";
   color: #000;
 }
 .icon-Property-1tabler-icon-trash-x-1-converted:before {
