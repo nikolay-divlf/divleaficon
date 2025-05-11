@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?4rjb8s');
-  src:  url('fonts/divleaficon.eot?4rjb8s#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?4rjb8s') format('truetype'),
-    url('fonts/divleaficon.woff?4rjb8s') format('woff'),
-    url('fonts/divleaficon.svg?4rjb8s#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?rk9mth');
+  src:  url('fonts/divleaficon.eot?rk9mth#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?rk9mth') format('truetype'),
+    url('fonts/divleaficon.woff?rk9mth') format('woff'),
+    url('fonts/divleaficon.svg?rk9mth#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -91,6 +91,14 @@
 }
 .icon-Property-1ic_round-add:before {
   content: "\e9b1";
+  color: #000;
+}
+.icon-icon_cart:before {
+  content: "\e9d3";
+  color: #000;
+}
+.icon-icon_cart_2:before {
+  content: "\e9d7";
   color: #000;
 }
 .icon-bag:before {
@@ -223,6 +231,10 @@
 }
 .icon-comment:before {
   content: "\e918";
+  color: #000;
+}
+.icon-icon_message-2:before {
+  content: "\e9d4";
   color: #000;
 }
 .icon-credit-card:before {
@@ -398,6 +410,14 @@
 }
 .icon-heart-1:before {
   content: "\e98c";
+  color: #000;
+}
+.icon-icon_wishlist:before {
+  content: "\e9d5";
+  color: #000;
+}
+.icon-icon_wishlist_2:before {
+  content: "\e9d8";
   color: #000;
 }
 .icon-home-1:before {
@@ -678,6 +698,14 @@
 }
 .icon-iconamoon_profile-fill:before {
   content: "\e9d0";
+  color: #000;
+}
+.icon-icon_user:before {
+  content: "\e9d6";
+  color: #000;
+}
+.icon-icon_user_2:before {
+  content: "\e9d9";
   color: #000;
 }
 .icon-search-interface-symbol:before {
