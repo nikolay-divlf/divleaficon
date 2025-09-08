@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?rk9mth');
-  src:  url('fonts/divleaficon.eot?rk9mth#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?rk9mth') format('truetype'),
-    url('fonts/divleaficon.woff?rk9mth') format('woff'),
-    url('fonts/divleaficon.svg?rk9mth#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?sols35');
+  src:  url('fonts/divleaficon.eot?sols35#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?sols35') format('truetype'),
+    url('fonts/divleaficon.woff?sols35') format('woff'),
+    url('fonts/divleaficon.svg?sols35#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -103,6 +103,10 @@
 }
 .icon-bag:before {
   content: "\e900";
+  color: #000;
+}
+.icon-new_resized512x512:before {
+  content: "\e9da";
   color: #000;
 }
 .icon-free-add-to-cart-8596357-1:before {
