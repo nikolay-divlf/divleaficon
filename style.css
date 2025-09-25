@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'divleaficon';
-  src:  url('fonts/divleaficon.eot?sols35');
-  src:  url('fonts/divleaficon.eot?sols35#iefix') format('embedded-opentype'),
-    url('fonts/divleaficon.ttf?sols35') format('truetype'),
-    url('fonts/divleaficon.woff?sols35') format('woff'),
-    url('fonts/divleaficon.svg?sols35#divleaficon') format('svg');
+  src:  url('fonts/divleaficon.eot?ffy1ok');
+  src:  url('fonts/divleaficon.eot?ffy1ok#iefix') format('embedded-opentype'),
+    url('fonts/divleaficon.ttf?ffy1ok') format('truetype'),
+    url('fonts/divleaficon.woff?ffy1ok') format('woff'),
+    url('fonts/divleaficon.svg?ffy1ok#divleaficon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -135,6 +135,10 @@
 }
 .icon-wallet:before {
   content: "\e964";
+  color: #000;
+}
+.icon-sort:before {
+  content: "\e9db";
   color: #000;
 }
 .icon-bar-chart:before {
@@ -971,4 +975,28 @@
   margin-left: -1em;
   color: rgb(0, 0, 0);
   opacity: 0.943;
+}
+.icon-facebook-logo:before {
+  content: "\e9dc";
+  color: #000;
+}
+.icon-pinterest-sign:before {
+  content: "\e9dd";
+  color: #000;
+}
+.icon-twitter-sign:before {
+  content: "\e9de";
+  color: #000;
+}
+.icon-x-twitter:before {
+  content: "\e9df";
+  color: #000;
+}
+.icon-youtube:before {
+  content: "\e9e1";
+  color: #000;
+}
+.icon-exit:before {
+  content: "\e9e0";
+  color: #000;
 }
